@@ -1,0 +1,205 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+a,a:hover{
+	text-decoration: none;
+}
+.logo-text ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+/****************
+   header-area
+*****************/
+}
+.navbar-brand{
+	font-size: 32px;
+	color: white !important;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.nav-link{
+	color: white !important;
+	font-size: 15px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.nav-link:hover{
+	color: #008ed6 !important;
+	background: url(../img/photo.png) center bottom no-repeat;
+}
+/**********************
+     banner-area
+***********************/
+.banner-area{
+	position:absolute;
+}
+.banner-area{
+	width: 100%;
+	background: url(../img/Back.png);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+.banner-text{
+   padding: 140px 0;
+}
+.banner-text h6{
+font-size: 14px;
+font-family: 'Source Sans Pro', sans-serif;
+color: #008ed6;
+text-transform: uppercase;
+}
+.banner-text h1{
+font-size: 46px;
+font-family: 'Source Sans Pro', sans-serif;
+color: white;
+}
+.banner-text p{
+color: #999999;
+font-size: 13px;
+font-family: 'Source Sans Pro', sans-serif;
+margin-bottom: 50px;
+}
+.banner-btn{
+width: 100%;
+display: flex;
+}
+.banner-btn button{
+	background: #008ed6;
+	color: white;
+    padding: 10px 20px;
+    border: 1px solid white;
+    margin-right: 15px;
+    text-transform: uppercase;
+}
+.banner-bun button{
+ background: #212128;
+}
+.banner-btn button:hover{
+	color: #b600ff;
+	cursor: pointer;
+	background: #266af2;
+}
+.banner{
+	padding: 100px 0;
+}
+
+/********************
+  features-area
+*********************/
+.features-area{
+	background: #ffffff;
+}
+.text-titel{
+	text-align: center;
+	margin-bottom: 35px;
+}
+.text-titel h6{
+   color: #008ed6;
+   font-family: 'Source Sans Pro', sans-serif;
+   font-size: 14px;
+   text-transform: uppercase;
+}
+.text-titel h2{
+    font-size: 42px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+}
+.icon-area{
+	text-align: center; 
+}
+.icon-area i{
+height: 50px;
+width: 50px;
+line-height: 50px;
+font-size: 20px;
+color: #008ed6;
+border-radius: 50%;
+border: 3px solid #f2f2f2;
+}
+.icon-area h4{
+	margin: 20px 0 20px 0;
+	font-size: 20px;
+}
+.icon-area p{
+color: #999999;
+font-size: 12px;
+font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+/******************
+  divice-area
+*******************/
+.divice-area{
+	background: #ffffff;
+	padding: 50px 0;	
+}
+.logo-text{
+padding: 70px;
+
+}
+.logo-text h6{
+ font-size: 14px;
+ color: #aacfec;
+ text-transform: uppercase;
+ font-family: 'Source Sans Pro', sans-serif;
+
+}
+.logo-text h1{
+ font-size:29px;
+ font-family: 'Source Sans Pro', sans-serif;
+}
+.logo-text p{
+color: #b8b8b8;
+font-size: 14px;
+margin-top: 10px;
+font-family: 'Source Sans Pro', sans-serif;
+}
+
+.logo-text ul li{
+font-size: 15px;
+font-family: 'Source Sans Pro', sans-serif;
+}
+.logo-text i{
+height: 20px;
+width: 20px;
+line-height: 20px;
+font-size: 14px;
+color: #1798da;
+}
+/********************
+  super-area
+*********************/
+.super-area{
+	background: #f2f2f2;
+}
+.super-text h6{
+font-size: 14px;
+ color: #aacfec;
+ text-transform: uppercase;
+ font-family: 'Source Sans Pro', sans-serif;
+}
+.super-text{
+	padding: 150px 0;
+}
+.super-text h1{
+ font-size:30px;
+ font-family: 'Source Sans Pro', sans-serif;
+ font-weight: 600;
+}
+.super-text p{
+color: #b8b8b8;
+font-size: 12px;
+margin-top: 10px;
+font-family: 'Source Sans Pro', sans-serif;
+}
+.super-banner img{
+	margin-left:-192px;
+}
